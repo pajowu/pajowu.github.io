@@ -1,0 +1,31 @@
+<% render '/default.*' do %>
+	<section class="header_one_third">
+		<div id="background_image"></div>
+		<header class="big_header">
+			<h1 id="site_title"><%= @item[:title] %></h1>
+			<hr>
+			<h2 id="site_subtitle"><%= @item[:description] %></h2>
+		</header>
+		<div id="back_to_home"><a href="<%= relative_path_to("/") %>"><span id="lsaquo">&lsaquo;</span>HOME</a></div>
+	</section>
+	<div id="content">
+		<section id="user_content">
+			<% sorted_articles.each do |post| %>
+				<article class="article_teaser">
+					<div class="article_metadata">
+						<h3 class="teaser_date"><%= get_pretty_date(post) %></h3>
+						<h3 class="teaser_author_name">by <span class="author_name"><%= newest_article[:author_name] || @config[:author_name] %></span></h3>
+					</div>
+					<div class="article_title">
+						<h1 class="teaser_title"><%= link_to post[:title], post.path %></h1>
+					</div>
+					<br/>
+					<div class="post_teaser">
+						<%= get_post_start(post) %>
+						<div class='read-more'><a href='<%= post.path %>'>Weiterlesen &rsaquo;</a></div>
+					</div>
+				</article>
+			<% end %>
+		</section>
+	</div>
+<% end %>

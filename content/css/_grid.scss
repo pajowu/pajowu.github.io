@@ -1,0 +1,20 @@
+@for $grid_total from 1 through 4 {
+	@for $grid_num from 1 through $grid_total {
+		.grid_#{$grid_num}_of_#{$grid_total} {
+			width: calc(#{percentage($grid_num/$grid_total)});
+		}
+	}
+}
+
+@media only screen and (max-width: 768px) {
+    /* For tablets */
+    [class*="grid_"] {
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 550px) {
+    /* For mobile phones: */
+    [class*="grid_"] {
+        width: 100%;
+    }
+}

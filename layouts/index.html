@@ -1,0 +1,68 @@
+<% render '/default.*' do %>
+	<section class="header_two_thirds">
+		<div id="background_image"></div>
+		<header class="big_header">
+			<h1 id="site_title"><%= @item[:title] %></h1>
+			<hr>
+			<h2 id="site_subtitle"><%= @item[:description] %></h2>
+		</header>
+	</section>
+	<section id="content">
+		<section id="newest_stuff" class="flexbox">
+
+			<div id="latest_tweet" class="grid_1_of_4 col">
+				<a href="https://twitter.com/<%= footer_item[:twitter_name] %>"><i class="fa fa-twitter" aria-hidden="true" id="twitter_icon"></i></a>
+
+				<div class="loading_indicator" id="twitter_loading_indicator">
+					Loading latest Tweet
+				</div>
+				<div id="twitter_data">
+					<div id="tweets"></div>
+				</div>
+			</div>
+
+			<div id="latest_github_event" class="grid_1_of_4 col">
+				<a href="https://github.com/<%= footer_item[:github_name] %>"><i class="fa fa-github" aria-hidden="true" id="github_icon"></i></a>
+
+				<div class="loading_indicator" id="github_loading_indicator">
+					Loading latest github event
+				</div>
+
+				<div id="github_data"></div>
+			</div>
+
+			<div id="latest_flickr_photo" class="grid_1_of_4 col">
+				<div class="loading_indicator" id="flickr_loading_indicator">
+					Loading latest flickr photo
+				</div>
+				<div class="display_later" id="flickr_image_data">
+					<div id="flickr_image"></div>
+					<div id="flickr_image_description">
+						<a id="flickr_image_link">
+							<ul>
+								<li id="flickr_image_title"><i class="fa fa-flickr" aria-hidden="true"></i> <span id="flickr_image_title_text"></span></li>
+								<li id="flickr_image_date"></li>
+							</ul>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div id="latest_post" class="grid_1_of_4 col">
+				<h1><a href="<%= newest_article.path %>"><%= newest_article[:title] %></a></h1>
+				<% if newest_article[:subtitle] %><h2><%= newest_article[:subtitle] %></h2><% end %>
+				<div id="author">by <span id="author_name"><%= newest_article[:author_name] || @config[:author_name] %></span></div>
+				<span id="article_teaser">
+					<%= newest_article[:description] || strip_html(newest_article.compiled_content).split(".")[0] %>
+				</span>
+			</div>
+
+		</section>
+		<section id="user_content">
+			<%= yield %>
+		</section>
+	</section>
+
+	<script type="text/javascript" src="<%= relative_path_to("/js/twitterFetcher_min.js") %>"></script>
+	<script type="text/javascript" src="<%= relative_path_to("/js/index.js") %>"></script>
+<% end %>

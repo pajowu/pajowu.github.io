@@ -1,0 +1,5 @@
+---
+title: feed
+is_hidden: true
+---
+<%= atom_feed limit: 10 %>

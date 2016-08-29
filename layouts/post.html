@@ -1,0 +1,18 @@
+<% render '/default.*' do %>
+	<% if item[:header_image] %>
+		<div class="article_background_image" style='background-image: url("<%= relative_path_to(item[:header_image]) %>")'></div>
+	<% else %>
+		<div class="article_background_image"></div>
+	<% end %>
+
+	<div id="back_to_home"><a href="<%= relative_path_to("/blog") %>"><span id="lsaquo">&lsaquo;</span>BLOG</a></div>
+
+	<div class='post'>
+		<h1 id="title"><%= item[:title] %></h1>
+		<h3 id="date"><%= get_pretty_date(item) %></h3>
+		<h3 id="author_name">by <span class="author_name"><%= newest_article[:author_name] || @config[:author_name] %></span></h3>
+		<article id="content">
+			<%= yield %>
+		</article>
+	</div>
+<% end %>

@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title><%= index_item[:title] %> - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="<%= relative_path_to("/css/stylesheet.css") %>">
+    <link rel="stylesheet" href="<%= relative_path_to("/css/font-awesome.min.css") %>">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+
+    <% if @item[:description] %>
+      <meta name="description" content="<%= strip_html(@item[:description]) %>">
+    <% else %>
+      <meta name="description" content="<%= strip_html(newest_article.compiled_content).split(".")[0] %>">
+    <% end %>
+    <% if @item[:tags] %><meta name="keywords" content="<%= tags_for(@item) %>"><% end %>
+
+    <!-- twitter card -->
+    <% if footer_item[:twitter_name] %>
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@<%= footer_item[:twitter_name] %>">
+      <meta name="twitter:title" content="<%= @item[:title] %>">
+      <% if @item[:description] %>
+        <meta name="twitter:description" content="<%= strip_html(@item[:description]) %>">
+      <% else %>
+        <meta name="twitter:description" content="<%= strip_html(newest_article.compiled_content).split(".")[0] %>">
+      <% end %>
+      <meta name="twitter:image" content="https://github.com/<%= footer_item[:github_name] %>.png">
+      <meta name="twitter:image:alt" content="profile picture of <%= @item[:author_name] || @config[:author_name] %>">
+    <% end %>
+
+  </head>
+  <body>
+    <%= yield %>
+    <%= render '/footer.*' %>
+  </body>
+</html>

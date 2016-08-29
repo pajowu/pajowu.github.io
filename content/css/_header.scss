@@ -1,0 +1,139 @@
+@import 'variables';
+
+
+
+.header_two_thirds {
+    header {
+        position: absolute;
+        margin: auto;
+        top: 0;
+        right: 0;
+        bottom: percentage(1/3);
+        @media only screen and (max-width: 550px) {
+            bottom: 0;
+        }
+        left: 0;
+        height: 3.5em;
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 5em;
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+	height: percentage(2/3);
+    @media only screen and (max-width: 550px) {
+            height: 100%;
+    }
+
+	text-align: center;
+	color: $background-color;
+
+    hr {
+        border: none;
+        height: 5px;
+        color: $background-color;
+        background-color: $background-color;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #background_image {
+        background-image: url("../images/header.jpg");
+        background-size: cover;
+        background-position: center bottom;
+
+        -webkit-filter: contrast(75%);
+
+        height: 100%;
+        z-index: 1;
+    }
+    #site_subtitle {
+        a {
+            color: $background-color;
+        }
+    }
+}
+
+
+.header_one_third {
+
+    header {
+        position: absolute;
+        margin: auto;
+        top: 0;
+        right: 0;
+        bottom: percentage(2/3);
+        @media only screen and (max-width: 768px) {
+            bottom: percentage(1/3);
+        }
+
+        left: 0;
+        height: 3.5em;
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 5em;
+        margin-top: -0.25em;
+        margin-left: auto;
+        margin-right: auto;
+        @media only screen and (max-width: 550px) {
+            line-height: 1em;
+            margin-top: -1em;
+        }
+    }
+
+    height: percentage(1/3);
+    @media only screen and (max-width: 768px) {
+            height: percentage(2/3);
+    }
+    text-align: center;
+    color: $background-color;
+
+    hr {
+        border: none;
+        height: 5px;
+        color: $background-color;
+        background-color: $background-color;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #background_image {
+        background-image: url("../images/header.jpg");
+        background-size: cover;
+        background-position: center bottom;
+        -webkit-filter: contrast(50%);
+
+        height: 100%;
+        z-index: 1;
+    }
+    #site_subtitle {
+        a {
+            color: $background-color;
+        }
+    }
+}
+
+#back_to_home {
+    position:absolute;
+    top: 0.67em;
+    left: 0.67em;
+
+    font-size: 1em;
+
+    #lsaquo {
+        font-size: 1.3em;
+    }
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        color: $background-color;
+    }
+}

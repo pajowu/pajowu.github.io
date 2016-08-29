@@ -1,0 +1,56 @@
+footer {
+	bottom: 0;
+	padding-bottom: 1em;
+	text-align: center;
+
+	ul.icons li a i {
+		color: rgba(73, 73, 73, 0.50);
+	}
+
+	ul.icons li a i:hover {
+		color: rgba(73, 73, 73, 0.75);
+	}
+
+	#contact_data {
+		display: none;
+		font-size: 0.9em;
+
+		ul li {
+			display: inline-block;
+		}
+
+		ul {
+			-webkit-margin-before: -1em;
+			-webkit-margin-after: -0.1em;
+		}
+
+		h2 {
+			font-size: 1em;
+		}
+
+		a {
+		    color: #000;
+		}
+
+	}
+	.copyright {
+		font-size: 0.8em;
+	}
+	#hide_contact_data {
+		display: none;
+	}
+
+	ul.icons {
+		font-size: 1.5em;
+	}
+
+	ul.icons li {
+		display: inline-block;
+		padding: 0.5em 1em;
+	}
+
+	#toggle_contact_link {
+		color: #000;
+		text-decoration: none;
+	}
+}

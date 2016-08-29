@@ -1,0 +1,7 @@
+vendor/
+output/
+mockups/
+gem_tmp/
+.sass-cache/
+tmp/
+.bundle/
