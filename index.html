@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>pajowu - pajowu</title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.3.2">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+
+    
+      <meta name="description" content="Blog &middot; Code &middot; Photos">
+    
+    
+
+    <!-- twitter card -->
+    
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@pajowu">
+      <meta name="twitter:title" content="pajowu">
+      
+        <meta name="twitter:description" content="Blog &middot; Code &middot; Photos">
+      
+      <meta name="twitter:image" content="https://github.com/pajowu.png">
+      <meta name="twitter:image:alt" content="profile picture of pajowu">
+    
+
+  </head>
+  <body>
+    
+	<section class="header_two_thirds">
+		<div id="background_image"></div>
+		<header class="big_header">
+			<h1 id="site_title">pajowu</h1>
+			<hr>
+			<h2 id="site_subtitle"><a href="blog/">Blog</a> &middot; <a href="https://github.com/pajowu">Code</a> &middot; <a href="https://flickr.com/photos/pajowu/">Photos</a></h2>
+		</header>
+	</section>
+	<section id="content">
+		<section id="newest_stuff" class="flexbox">
+
+			<div id="latest_tweet" class="grid_1_of_4 col">
+				<a href="https://twitter.com/pajowu"><i class="fa fa-twitter" aria-hidden="true" id="twitter_icon"></i></a>
+
+				<div class="loading_indicator" id="twitter_loading_indicator">
+					Loading latest Tweet
+				</div>
+				<div id="twitter_data">
+					<div id="tweets"></div>
+				</div>
+			</div>
+
+			<div id="latest_github_event" class="grid_1_of_4 col">
+				<a href="https://github.com/pajowu"><i class="fa fa-github" aria-hidden="true" id="github_icon"></i></a>
+
+				<div class="loading_indicator" id="github_loading_indicator">
+					Loading latest github event
+				</div>
+
+				<div id="github_data"></div>
+			</div>
+
+			<div id="latest_flickr_photo" class="grid_1_of_4 col">
+				<div class="loading_indicator" id="flickr_loading_indicator">
+					Loading latest flickr photo
+				</div>
+				<div class="display_later" id="flickr_image_data">
+					<div id="flickr_image"></div>
+					<div id="flickr_image_description">
+						<a id="flickr_image_link">
+							<ul>
+								<li id="flickr_image_title"><i class="fa fa-flickr" aria-hidden="true"></i> <span id="flickr_image_title_text"></span></li>
+								<li id="flickr_image_date"></li>
+							</ul>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div id="latest_post" class="grid_1_of_4 col">
+				<h1><a href="/blog/jhost2016.html">Jugend hackt Ost 2016</a></h1>
+				
+				<div id="author">by <span id="author_name">pajowu</span></div>
+				<span id="article_teaser">
+					Jugend hackt ist ein Hackathon für 12-18 Jährige. Ich war da und habe meine Eindrücke aufgeschrieben.
+				</span>
+			</div>
+
+		</section>
+		<section id="user_content">
+			<!-- 
+Ich bin Karl der Kofferfisch,
+und Koffern ist mein Hobby.
+Ich koffere am Frühstückstisch,
+im Fahrstuhl und der Lobby.
+-->
+
+		</section>
+	</section>
+
+	<script type="text/javascript" src="js/twitterFetcher_min.js"></script>
+	<script type="text/javascript" src="js/index.js"></script>
+
+    <footer>
+	<ul class="icons" id="contact_icons">
+		<li><a href="https://twitter.com/pajowu"><i class="fa fa-twitter"></i></a></li>
+		<li><a href="https://github.com/pajowu"><i class="fa fa-github"></i></a></li>
+		<li><a href="https://www.flickr.com/photos/pajowu"><i class="fa fa-flickr"></i></a></li>
+		<li><a href="https://telegram.me/pajowu"><i class="fa fa-paper-plane"></i></a></li>
+	</ul>
+	<div id="contact_data">
+			<ul>
+				<li><h2>E-Mail</h2></li>
+				<li><a href="mailto:pajowu@pajowu.de">kontakt@ca.pajowu.de</a></li>
+				<li><a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x31407BD35BB4BDA709F0EE0D50EA541F9D045C1D">Public Key</a></li>
+				<li><code title="PGP Public Key Fingerprint">3140 7BD3 5BB4 BDA7 09F0  EE0D 50EA 541F 9D04 5C1D</code></li>
+			</ul>
+			<ul>
+				<li><h2>XMPP</h2></li>
+				<li><a href="xmpp:pajowu@pajowu.de?message">pajowu@pajowu.de</a></li>
+				<li><code title="XMPP Public Key Fingerprint">22FE23DE E0D2EC01 F2DC1516 D61A14A1 76208E6B</code></li>
+			</ul>
+	</div>
+	<div class="copyright">
+			<span> Copyright &copy; 2016 pajowu</span>
+			<a href="javascript:;" onclick="toggleContact()" id="toggle_contact_link">
+				<span id="show_contact_data">Kontaktdaten anzeigen</span>
+				<span id="hide_contact_data">Kontaktdaten ausblenden</span>
+			</a>
+	</div>
+</footer>
+<script type="text/javascript" src="js/footer.js"></script>
+  </body>
+</html>

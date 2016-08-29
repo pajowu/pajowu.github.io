@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pajowu.de/</id>
+  <title>feed</title>
+  <updated>2016-06-19T22:00:00Z</updated>
+  <link rel="alternate" href="https://pajowu.de/"/>
+  <link rel="self" href="https://pajowu.de/feed.xml"/>
+  <author>
+    <name>pajowu</name>
+    <uri>https://pajowu.de</uri>
+  </author>
+  <entry>
+    <id>tag:pajowu.de,2016-06-20:/blog/jhost2016.html</id>
+    <title type="html">Jugend hackt Ost 2016</title>
+    <published>2016-06-19T22:00:00Z</published>
+    <updated>2016-06-19T22:00:00Z</updated>
+    <link rel="alternate" href="https://pajowu.de/blog/jhost2016.html"/>
+    <content type="html">&lt;h2 id="freitag"&gt;Freitag&lt;/h2&gt;
+
+&lt;p&gt;Am Freitag kamen die Teilnehmer an und wurden begrüßt. Zur Vorstellung wurde MMSSS&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; gespielt und es gab Vorträge zum Thema Nachhaltigkeit vom &lt;a href="https://www.sukuma.net/"&gt;Sukuma arts e.v.&lt;/a&gt; und Hackerethik von Joachim Scharloth.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Josch klärt über die &lt;a href="https://twitter.com/hashtag/Hackerethik?src=hash"&gt;#Hackerethik&lt;/a&gt; auf bei &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/opAGNgYlvh"&gt;pic.twitter.com/opAGNgYlvh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rob (@robtranquillo) &lt;a href="https://twitter.com/robtranquillo/status/743891685868978176"&gt;17. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Außerdem erklärte uns Jan Techniken für die Ideenfindung.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Kreativitätstechniken mit Jan bei &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/X7sERyjbGz"&gt;pic.twitter.com/X7sERyjbGz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rob (@robtranquillo) &lt;a href="https://twitter.com/robtranquillo/status/743855043510673408"&gt;17. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Danach teilten sich die Teilnehmer*innen in Gruppen auf und die Kreativtechniken wurden gleich mal ausprobiert.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Volle Themenräume, rauchende Köpfe, geniale JunghackerInnen! &amp;lt;3  &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/i7yqpxIqHr"&gt;pic.twitter.com/i7yqpxIqHr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jugend hackt Ost (@jhacktost) &lt;a href="https://twitter.com/jhacktost/status/743873562755346432"&gt;17. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id="sonnabend"&gt;Sonnabend&lt;/h2&gt;
+
+&lt;p&gt;Der Sonnabend wurde vorallem mit Entwickeln zugebracht.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;&lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; entwickelt, tüftelt coded - eine herrliche athmosphäre hier! &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/TXEsCMS6hf"&gt;pic.twitter.com/TXEsCMS6hf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kristina Richter (@_xristiina) &lt;a href="https://twitter.com/_xristiina/status/744118229455507456"&gt;18. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Dabei benötigte Hardware wurde schnell aus dem Bau- oder Technikmarkt geholt.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;letzte Einkäufe für &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt;... widewitt, die jungen hacker_innen scharren mit den Hufen!!! &lt;a href="https://t.co/oa2cpqHINN"&gt;pic.twitter.com/oa2cpqHINN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kristina Richter (@_xristiina) &lt;a href="https://twitter.com/_xristiina/status/744144758239543296"&gt;18. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Und rote Buttons, Gehäuse und weitere Dinge wurden mit Hilfe des Fablab Dresdens hergestellt.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Wofür wohl der rote Knopf gut ist? Morgen bei der Abschluss Präsentation werden wir es erfahren &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; &lt;a href="https://t.co/cPg7kCFN1J"&gt;pic.twitter.com/cPg7kCFN1J&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jugend hackt (@jugendhackt) &lt;a href="https://twitter.com/jugendhackt/status/744224232419262464"&gt;18. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Parallel gab es noch Lightning-Talks, z.B. zu git (wobei &amp;gt;1.5h nicht mehr wirklich als Lightning-Talk zählt).&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Stark! Ich wollte schon immer eine &lt;a href="https://twitter.com/hashtag/git?src=hash"&gt;#git&lt;/a&gt; Einführung mitmachen! &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/5ZSHfOP4DP"&gt;pic.twitter.com/5ZSHfOP4DP&lt;/a&gt;&lt;/p&gt;&amp;mdash; Matthias Löwe (@sp4c31nv4d3r) &lt;a href="https://twitter.com/sp4c31nv4d3r/status/744198224349626368"&gt;18. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id="sonntag"&gt;Sonntag&lt;/h2&gt;
+
+&lt;p&gt;Am Sonntag konnte dann den Projekten der letzte Schliff gegeben werden.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;&lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt;: wenn das Frühstück nur Nebensache ist! &amp;lt;3 &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/2fI0S4RTxT"&gt;pic.twitter.com/2fI0S4RTxT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Happy Drake (@happy_drake) &lt;a href="https://twitter.com/happy_drake/status/744408963094056964"&gt;19. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Danach wurden die Präsentationen geübt und anschliessend vor den anwesenden Eltern und Medienvertretern sowie im Livestream präsentiert.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Volles Haus - Es geht los! &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/cwaward?src=hash"&gt;#cwaward&lt;/a&gt; &lt;a href="https://t.co/nZ4EN71Cgp"&gt;pic.twitter.com/nZ4EN71Cgp&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code Week Award (@codeweekaward) &lt;a href="https://twitter.com/codeweekaward/status/744480649357180928"&gt;19. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Vorgestellt wurden:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765b5c7d9284f016c04700c"&gt;Roboboard&lt;/a&gt; - ein Skateboard mit Motor, der automatisch vor einer Wand oder Klippe anhält&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765a677d9284f016c04700a"&gt;Nachhaltiger Wochenplan&lt;/a&gt; - Vorschläge, mit denen man sein Tagesablauf nachhaltiger gestalten kan&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765a664d9284f016c047009"&gt;wer-hat-was&lt;/a&gt; - Website mit der in Notsituationen (z.B. nach einem Hochwasser) Helfer*innen ihre Dienste schnell anbieten können&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765a603d9284f016c047007"&gt;Smart Street Monitoring System&lt;/a&gt; - Sensoren in der Straße liefern Informationen, um Probleme zu Erkennen&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765a5c6d9284f016c047006"&gt;QRbon&lt;/a&gt; - Kassenzettel werden durch QR-Codes ersetzt&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765a38bd9284f016c047004"&gt;Watch my Pi&lt;/a&gt; - Monitoring eines Raspberry Pis um Schadsoftware und Bugs zu erkennen&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/57659c48d9284f016c047001"&gt;BlueSky&lt;/a&gt; - Arduinos liefern Luftverschmutzungsdaten für Karte, die ÖPNV oder Fahrrad empfiehlt&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765999cd9284f016c047000"&gt;Smart Waste&lt;/a&gt; - Mülleimer, der den Müll selber trennt&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/576596dcd9284f016c046ff0"&gt;Internet of Coffee&lt;/a&gt; - Selbst gebaute, modulare Kaffemaschine, die sich fernsteuern lässt&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/5765967ad9284f016c046fef"&gt;BeatVote&lt;/a&gt; - Nutzer bekommt anonyme Musik, wenn diese ihm gefällt werden Titel/Interpret angezeigt, sonst neuer Song&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/576572f3d9284f016c046fe8"&gt;FreshBox&lt;/a&gt; - Kunde bestellt Lebensmittel bei lokalem Bauern, dieser liefern an gekühlte Freshbox. Kunde kann dort in den nächsten Tagen abholen, sonst gehen die Lebensmittel an die Tafel&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://hackdash.org/projects/57656ab0d9284f016c046fde"&gt;Hack die Wartezeit&lt;/a&gt; - Pager für Patienten, blinken, wenn die Wartezeit beim Arzt zuende ist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die Präsentation kann bald &lt;a href="https://www.youtube.com/channel/UCZPArRo7O1Y07hK1L-JfvUw/videos"&gt;hier&lt;/a&gt; nachgeschaut werden.&lt;/p&gt;
+
+&lt;p&gt;Es gab auch sieben Preise:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Mit Code die Welt verbessern”&lt;/em&gt; ging an &lt;a href="https://hackdash.org/projects/57659c48d9284f016c047001"&gt;BlueSky&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;&lt;a href="https://twitter.com/hashtag/BlueSky?src=hash"&gt;#BlueSky&lt;/a&gt; ist eines der Gewinnerprojekte bei &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt;. Dazu Einladung: &amp;quot;Die Stadtverwaltung braucht immer IT&amp;quot;. :) &lt;a href="https://t.co/XIpovXbyDX"&gt;pic.twitter.com/XIpovXbyDX&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code Week Award (@codeweekaward) &lt;a href="https://twitter.com/codeweekaward/status/744506945818755072"&gt;19. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Den größten &lt;em&gt;AHA-Moment&lt;/em&gt; (“Warum ist da noch niemand drauf gekommen?”) erzeugte &lt;a href="https://hackdash.org/projects/57656ab0d9284f016c046fde"&gt;Hack die Wartezeit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Den &lt;em&gt;besten Code&lt;/em&gt; schrieb das Team von &lt;a href="https://hackdash.org/projects/5765a38bd9284f016c047004"&gt;Watch my Pi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Das &lt;em&gt;beste Design&lt;/em&gt; hatte das &lt;a href="https://hackdash.org/projects/576596dcd9284f016c046ff0"&gt;Internet of Coffee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Den Sonderpreis für &lt;em&gt;Nachhaltigkeit&lt;/em&gt; bekam der &lt;a href="https://hackdash.org/projects/5765a677d9284f016c04700a"&gt;Nachhaltige Wochenplan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Und der &lt;em&gt;Publikumspreis&lt;/em&gt; ging an &lt;a href="https://hackdash.org/projects/5765a5c6d9284f016c047006"&gt;QRbon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Außerdem bekam das inoffizielle Jugend hackt-Maskottchen &lt;a href="https://twitter.com/DasKarline"&gt;Karline&lt;/a&gt; auch einen Preis und Blumen&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;&lt;a href="https://twitter.com/hashtag/Alpakapower?src=hash"&gt;#Alpakapower&lt;/a&gt; - Danke &lt;a href="https://twitter.com/jhacktost"&gt;@jhacktost&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://t.co/ECn5zqS5qt"&gt;pic.twitter.com/ECn5zqS5qt&lt;/a&gt;&lt;/p&gt;&amp;mdash; Karline (@DasKarline) &lt;a href="https://twitter.com/DasKarline/status/744519101905833985"&gt;19. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Großer Dank natürlich auch an das wunderbare  &lt;a href="https://twitter.com/DasKarline"&gt;@DasKarline&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/alpakapower?src=hash"&gt;#alpakapower&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/fame?src=hash"&gt;#fame&lt;/a&gt; &lt;a href="https://t.co/7vyFsGFbvC"&gt;pic.twitter.com/7vyFsGFbvC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jugend hackt (@jugendhackt) &lt;a href="https://twitter.com/jugendhackt/status/744512604748587008"&gt;19. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id="fazit"&gt;Fazit&lt;/h2&gt;
+
+&lt;p&gt;Es sollte viel mehr Jugend hackts geben. So viele großartige, kreative junge Menschen findet man sonst selten auf einem Haufen.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Hallo Welt \o/ &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/jhost?src=hash"&gt;#jhost&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/cwaward?src=hash"&gt;#cwaward&lt;/a&gt; &lt;a href="https://t.co/O0KBDR7aD0"&gt;pic.twitter.com/O0KBDR7aD0&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jugend hackt Ost (@jhacktost) &lt;a href="https://twitter.com/jhacktost/status/744431684104368128"&gt;19. Juni 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Ich möchte hier nochmal allen danken, die Jugend hackt möglich machen. Es braucht mehr solche Veranstaltungen, bei denen man sich mit Gleichgesinnten vernetzen und coole Ideen verwirklichen kann. Es tut gut, mal drei Tage in einem Umfeld zu sein, in dem die Antwort auf den Satz “Ich habe was mit einem Arduino gebaut” nicht lautet “Was??”, sondern “Cool, zeig mal deinen Code”.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" data-lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;&amp;quot;Endlich mal normale Leute&amp;quot; :) &lt;a href="https://twitter.com/hashtag/jugendhackt?src=hash"&gt;#jugendhackt&lt;/a&gt; auf der Sendezentrumsbühne &lt;a href="https://twitter.com/hashtag/32c3?src=hash"&gt;#32c3&lt;/a&gt; &lt;a href="https://t.co/Nl3EUxWYn0"&gt;pic.twitter.com/Nl3EUxWYn0&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jugend hackt (@jugendhackt) &lt;a href="https://twitter.com/jugendhackt/status/681807665568333825"&gt;29. Dezember 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;div class="footnotes"&gt;
+  &lt;ol&gt;
+    &lt;li id="fn:1"&gt;
+
+      &lt;p&gt;Massive Multiplayer Schnick Schnack Schnuck:&lt;/p&gt;
+
+      &lt;p&gt;Zwei Spieler*innen spielen gegeneinander Schnick-Schnack-Schnuck. Wer verliert, wird Fan des*der Anderen und feuert ihn/sie nun an. Nun tritt der*die Gewinner*in gegen den/die Nächste an, der*die Verlierer*in wird mit seinen*ihren Fans Fans des*der Gewinner*in. So bilden sich immer größere Gruppen bis zuletzt zwei Spieler*innen gegeneinander antreten und jeweils die hälfte der Teilnehmer*innen hinter sich versammeln. &lt;a href="#fnref:1" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:pajowu.de,2016-03-03:/blog/computer-science-is-awesome.html</id>
+    <title type="html">So geht es auch – Mein Informatik&lt;wbr&gt;unterricht nach britischem Lehrplan</title>
+    <published>2016-03-02T23:00:00Z</published>
+    <updated>2016-03-02T23:00:00Z</updated>
+    <link rel="alternate" href="https://pajowu.de/blog/computer-science-is-awesome.html"/>
+    <content type="html">&lt;p&gt;Der Informatikunterricht unterscheidet sich je nach Land, das war mir klar, allerdings war es für mich doch erstaunlich, wie groß dieser Unterschied ist. 
+Der Informatikunterricht an meiner alten Schule in Leipzig glich lange einer Microsoft-Office-Produktschulung. In der 9. Klasse haben wir dann noch etwas mit &lt;a href="https://de.wikipedia.org/wiki/Scratch\_(Programmiersprache)"&gt;Scratch&lt;/a&gt; gearbeitet, wobei sich das im wesentlichen auch auf eine kleine Einführung des Lehrers oder der Lehrerin und danach ein “macht mal” beschränkte. Dazwischen haben wir noch etwas über Objektorientierung gelernt, allerdings nur theoretisch und ohne jeglichen Praxiszusammenhang (Scratch eignet sich da zwar sehr gut, wurde aber erst einige Monate später behandelt).
+Der Informatikunterricht in der Oberstufe unterschied sich dann je nach Lehrer extrem. Bei manchen Lehrer/innen wurden nur Aufgaben in Object Pascal&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; mit schlechter IDE gelöst, auch meistens nach dem Motto “macht mal”, während andere mit den Schüler/innen eine &lt;a href="https://de.wikipedia.org/wiki/CryptoParty"&gt;Cryptoparty&lt;/a&gt; im lokalen &lt;a href="https://de.wikipedia.org/wiki/Hackerspace"&gt;Hackerspace&lt;/a&gt; besuchten und Themen wie &lt;a href="https://de.wikipedia.org/wiki/Bash\_(Shell)"&gt;&lt;code&gt;bash&lt;/code&gt;&lt;/a&gt;, Datensicherheit und Verschlüsselungsalgorithmen behandelten.&lt;sup id="fnref:2"&gt;&lt;a href="#fn:2" class="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Zwar unterscheidet sich die Qualität des Informatikunterrichts auch in Großbritannien&lt;sup id="fnref:3"&gt;&lt;a href="#fn:3" class="footnote"&gt;3&lt;/a&gt;&lt;/sup&gt; je nach Lehrer/in, aber immerhin kann Informatik als schriftliche Prüfung abgelegt werden&lt;sup id="fnref:4"&gt;&lt;a href="#fn:4" class="footnote"&gt;4&lt;/a&gt;&lt;/sup&gt;. Programmiert wird auch nicht in irgendeiner Programmiersprache, sondern es muss C#, Java, Pascal/Delphi, Python oder VB.Net sein.
+Zudem gibt es einen deutlich strengeren, frisch überarbeiteten Lehrplan&lt;sup id="fnref:5"&gt;&lt;a href="#fn:5" class="footnote"&gt;5&lt;/a&gt;&lt;/sup&gt;, der bereits in der 11. Klasse folgendes enthält.&lt;/p&gt;
+
+&lt;h3 id="grundlagen-des-programmierens"&gt;Grundlagen des Programmierens&lt;/h3&gt;
+
+&lt;p&gt;Dieser Bereich umfasst die grundlegenden Datentypen (Integer, Dezimalzahlen, boolsche Variablen, Zeichen, Zeichenketten, Daten/Zeiten, Tupel, Listen), das Erstellen eigener Datentypen und die Elemente von Programmiersprachen (Variablen, Konstanten, Zuweisungen, Schleifen, Funktionen, etc.). Zudem werden die verschiedenen Operatoren zum Verändern und Vergleichen von Werten und Variablen sowie deren Sichtbarkeitsbereiche behandelt. Auch verschiedene Arten von Datenstrukturen werden behandelt.&lt;/p&gt;
+
+&lt;h3 id="systematischer-ansatz-zum-problemlsen"&gt;Systematischer Ansatz zum Problemlösen&lt;/h3&gt;
+
+&lt;p&gt;Hier wird behandelt, wie man von der Problemstellung zum fertigen Programm kommt, dabei werden verschiedene Methoden an Beispielen geübt. Es gibt in der Beschreibung des Kurses die ausdrückliche Anweisung, dass die “Schüler ausreichend Übung im Schreiben, Debuggen und Testen von Programmen”&lt;sup id="fnref:6"&gt;&lt;a href="#fn:6" class="footnote"&gt;6&lt;/a&gt;&lt;/sup&gt; haben sollten.&lt;/p&gt;
+
+&lt;h3 id="computertheorie"&gt;Computertheorie&lt;/h3&gt;
+
+&lt;p&gt;Dieser Bereich befasst sich mit Abstraktion und &lt;a href="https://de.wikipedia.org/wiki/Endlicher_Automat"&gt;endlichen Automaten&lt;/a&gt;. Dabei werden verschiedene Arten der Abstraktion sowie deren Vor- und Nachteile erläutert, sowohl die Abstraktion von Problemen, als auch die von Daten (eigene Datentypen) und Code (Funktionen). Auch dies wird nicht nur theoretisch erläutert, sondern soll immer an Beispielen stattfinden.&lt;/p&gt;
+
+&lt;h3 id="grundlagen-der-datendarstellung"&gt;Grundlagen der Datendarstellung&lt;/h3&gt;
+
+&lt;p&gt;Hierbei werden Zahlensysteme, Zahlenbasen, Informationseinheiten, die Speicherung verschieden Datenarten sowie Verschlüsselung behandelt. Dazu werden zuerst die verschieden Arten von Zahlen behandelt (Natürliche Zahlen, Rationale Zahlen, Ordnungszahlen etc.). Besonders binäre Zahlen werden intensiv behandelt, u.a. die Darstellung von negativen Binarzahlen mittels &lt;a href="https://de.wikipedia.org/wiki/Zweierkomplement"&gt;Zweierkomplement&lt;/a&gt;, die Grundrechenarten, Bruchzahlen und Einheiten (Bits, Bytes, …). Danach werden noch die Methoden zum Speichern von Text, Tönen, Musik und anderen Daten gelehrt. Auch Komprimierung mit &lt;a href="https://de.wikipedia.org/wiki/Laufl%C3%A4ngenkodierung"&gt;Lauflängenkodierung&lt;/a&gt; und &lt;a href="https://de.wikipedia.org/wiki/W%C3%B6rterbuchkompression"&gt;Wörterbuchkompression&lt;/a&gt; und die Unterschiede verschiedener Methoden (Verlustfrei, verlustbehaftet) ist ein Thema. Zudem wird Verschlüsselung mit ihren Extremen (&lt;a href="https://de.wikipedia.org/wiki/Caesar-Verschl%C3%BCsselung"&gt;Cäsar&lt;/a&gt; und &lt;a href="https://de.wikipedia.org/wiki/One-Time-Pad"&gt;OTP&lt;/a&gt;), der Anwendung der Beiden per Hand und anderen Chiffren, sowie deren Vor- und Nachteile unterrichtet.&lt;/p&gt;
+
+&lt;h3 id="grundlagen-von-computern"&gt;Grundlagen von Computern&lt;/h3&gt;
+
+&lt;p&gt;Ein weiterer Abschnitt beschäftigt sich mit der Funktionsweise von Computern. Dabei wird der Blick sowohl auf Hard-, als auch auf Software und deren Zusammenspiel gelenkt. Zur Hardware wird sich mit dem Prozessor, sowie seinen Bestandteilen und seinem Befehlssatz, mit Speicher, den Bussen, dem Ein- und Ausgabe-Controller, dem Ausführen von im Speicher abgelegter Software und externer Hardware beschäftigt. Bei der Software werden unterschiedliche Arten von Software (OS, Libraries, …), sowie deren Zweck, thematisiert. Ebenfalls Thema sind die Arten von Programmiersprachen, von Maschinencode bis hin zu höheren Programmiersprachen, sowie die verschiedenen Möglichkeiten Code auszuführen, also &lt;a href="https://de.wikipedia.org/wiki/Assembler_(Informatik)"&gt;assemblieren&lt;/a&gt;, &lt;a href="https://de.wikipedia.org/wiki/Interpreter"&gt;interpretieren&lt;/a&gt; und &lt;a href="https://de.wikipedia.org/wiki/Compiler"&gt;kompilieren&lt;/a&gt;, mit ihrem Nutzen in verschiedenen Situationen und &lt;a href="https://de.wikipedia.org/wiki/Logikgatter"&gt;Logikgatter&lt;/a&gt; sowie &lt;a href="https://de.wikipedia.org/wiki/Boolesche_Algebra"&gt;Boolesche Algebra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id="konsequenzen-der-computernutzung"&gt;Konsequenzen der Computernutzung&lt;/h3&gt;
+
+&lt;p&gt;Dieser Abschnitt ist leider einer der kürzesten in der Kursbeschreibung (½ Seite), soll aber trotzdem dazu aufrufen, sich mit moralischen, ethischen, rechtlichen und kulturellen Chancen und Problemen der Verbreitung von Computern sowie des Internets zu beschäftigen. Dabei soll auch über Themen wie Massenüberwachung und die Macht und Verantwortung, die die Entwicklung von Software mit sich bringt gesprochen werden: “[T]he issue of scale, creates potential for individual computer scientists and software engineers to produce great good, but with it comes the ability to cause great harm.”&lt;sup id="fnref:8"&gt;&lt;a href="#fn:8" class="footnote"&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id="grundlagen-von-kommunikation-und-netzwerken"&gt;Grundlagen von Kommunikation und Netzwerken&lt;/h3&gt;
+
+&lt;p&gt;Der letzte Bereich der 11. Klasse beschäftigt sich dann mit Kommunikation und Netzwerken. Dabei wird sich mit serieller, paralleler, synchroner und asynchroner Übertragung beschäftigt, es werden Begriffe wie Latenz, Bandbreite, &lt;a href="https://de.wikipedia.org/wiki/Baud"&gt;Baud&lt;/a&gt;-, &lt;a href="https://de.wikipedia.org/wiki/Bitrate"&gt;Bitrate&lt;/a&gt; und Protokoll erklärt. Zudem werden Netzwerkstrukturen und -arten sowie drahtlose Netzwerke betrachtet.&lt;/p&gt;
+
+&lt;!--Dies zeigt bereits die Bandbreite der Themen, die innerhalb eines Jahres behandelt werden sollen. Dazu sollte noch gesagt werden, dass nicht ein ganzes Jahr zur Verfügung steht, da bereits nach der 11\. Klasse die AS-Level-Prüfungen gemacht werden. So bleibt zwar weniger Zeit, aber bereits nach einem Jahr wird geprüft, welche Inhalte ausreichend vermittelt wurden und andere können in der 12\. Klasse dann gegebenenfalls noch einmal vertieft werden. Dadurch kann großen Druck zum Ende der Abiturs vorgebeugt werden und wenn man die A2-Level-Prüfung nicht besteht, hat man immerhin noch das AS-Level.--&gt;
+
+&lt;h1 id="fazit"&gt;Fazit&lt;/h1&gt;
+&lt;p&gt;Das ganze klingt ambitioniert für ein Schuljahr, an dessen Ende sich auch noch eine Abitur-ähnliche Prüfung befindet. Aber wir werden, soweit ich das nach etwas mehr als einem halben Jahr beurteilen kann, alle oben genannten Themen behandeln. Der Unterricht richtet sich außerdem sehr nach den Bedürfnissen der Schüler/innen, wobei das durch die kleinen Klassen leichter fällt. Die gibt es in Deutschland auch, dort aber meist aus mangelndem Interesse.
+Mir gefällt besonders, dass der Unterricht sehr praxisbezogen ist, die Hälfte der Zeit ist fest fürs programmieren eingeplant. Meistens läuft das so, dass wir uns in der einen Stunde etwas theoretisch anschauen und es in der Nächsten dann praktisch umsetzen. 
+Dadurch lernt man sowohl die Themen als auch ihre Anwendung besser, da beides gleich trainiert wird. Genau diese enge Kombination von Theorie und Praxis habe ich in meinem Informatikunterricht in Deutschland oft vermisst.&lt;/p&gt;
+
+&lt;p&gt;Ich finde, hier kann sich der deutsche Informatikunterricht eine gehörige Scheibe abschneiden. Dafür müsste der Lehrplan regelmäßig erneuert und die Prüfungmöglichkeiten, z.B. durch schriftliche Prüfungen, erweitert werden. Auch brauchen wir dringend Weiterbildungen für Lehrer/innen, um sie auch im inhaltlichen Umgang mit neuen Techniken besser zu schulen, auch inhaltlich. Ich habe schon einige Geschichten wie die von &lt;a href="http://jugendhackt.de/was-ist-dieses-python-ein-lagebericht-aus-der-schule/"&gt;Anna (Informatiklehrer fragte: “Was ist dieses Python?”)&lt;/a&gt; gehört, die zeigen, das gerade in diesem Bereich noch großer Bedarf besteht.&lt;/p&gt;
+
+&lt;h6 id="titelbild-crusher95wikimedia-commonshttpscommonswikimediaorgwikifilecodejpg"&gt;Titelbild: &lt;a href="https://commons.wikimedia.org/wiki/File:Code.jpg"&gt;Crusher95/wikimedia commons&lt;/a&gt;&lt;/h6&gt;
+
+&lt;div class="footnotes"&gt;
+  &lt;ol&gt;
+    &lt;li id="fn:1"&gt;
+      &lt;p&gt;Kommentar eines Verwandten: “Das musste ich in der Schule auch lernen und schon damals war das veraltet.” &lt;a href="#fnref:1" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:2"&gt;
+      &lt;p&gt;Das wurde mir so berichtet, ich war zu der Zeit nicht mehr an der Schule. &lt;a href="#fnref:2" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:3"&gt;
+      &lt;p&gt;Mein Schule ist keine typische britische Schule, da sie in Israel steht (Jaffa). Aber der Abschluss und warscheinlich auch der Unterricht sind mit dem Britischen vergleichbar. &lt;a href="#fnref:3" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:4"&gt;
+      &lt;p&gt;Kein Scherz, in Sachsen kann die Abiturprüfung Informatik nur mündlich abgelegt werden &lt;a href="#fnref:4" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:5"&gt;
+      &lt;p&gt;http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015-V1-1.PDF &lt;a href="#fnref:5" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:6"&gt;
+      &lt;p&gt;“Students should have sufficient practice of writing, debugging and testing programs”&lt;sup id="fnref:7"&gt;&lt;a href="#fn:7" class="footnote"&gt;8&lt;/a&gt;&lt;/sup&gt; &lt;a href="#fnref:6" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:8"&gt;
+      &lt;p&gt;http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015-V1-1.PDF Seite 34 &lt;a href="#fnref:8" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id="fn:7"&gt;
+      &lt;p&gt;http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015-V1-1.PDF Seite 15 &lt;a href="#fnref:7" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:pajowu.de,2016-01-10:/blog/4-monate-israel.html</id>
+    <title type="html">4 Monate Israel</title>
+    <published>2016-01-09T23:00:00Z</published>
+    <updated>2016-01-09T23:00:00Z</updated>
+    <link rel="alternate" href="https://pajowu.de/blog/4-monate-israel.html"/>
+    <content type="html">&lt;p&gt;Israel ist warm, Tel Aviv sogar ca 8-10°C wärmer als Jerulasem. Die Wärme war für mich am Anfang einer der merkbarsten Unterschiede zu Deutschland. Als es im November schneite, waren es in Tel Aviv noch 28°. Dementsprechend lässt sich ein Leben ohne Klimaanlage in Israel kaum vorstellen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/22205934409/" title="Klimaanlagen in Tel Aviv"&gt;&lt;img src="https://farm1.staticflickr.com/716/22205934409_afdacdcfa5_c.jpg" width="800" height="600" alt="Klimaanlagen in Tel Aviv" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Tel Aviv ist voll mit Hochhäusern, und obwohl man das Gefühl hat, das so viel Raum doch niemand nutzen kann, werden ständig neue Hochhäuser gebaut. Das bringt neue Probleme mit sich, so erzählten Freunde, dass es seit kurzem kaum noch Parkplätze gibt, da ein Hochhaus ohne Tiefgarage zwei Straßen weiter gebaut wurde.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20827363862/" title="Tel Aviv"&gt;&lt;img src="https://farm6.staticflickr.com/5618/20827363862_a19110c045_c.jpg" width="800" height="191" alt="Tel Aviv" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Am Anfang etwas seltsam ist der Sabbat, da er viel strenger eingehalten wird, als der Sonntag in Deutschland. Ab Freitagabend (30 min vor Sonnenuntergang) bis Sonnabendabend ist nichts mehr los: es fahren, auch im verhältnismäßig liberalen Tel Aviv, kaum noch Busse; fast alle Geschäfte, auch fast alle Cafés, haben geschlossen und man sieht kaum Autos auf der Straße.&lt;/p&gt;
+
+&lt;p&gt;Auch erstaunt haben mich die vielen Tiere. Es gibt sehr viele Straßenkatzen und im Sommer auch einige Kakerlaken. Hier sind Hunde scheinbar Haustier Nr. 1, denn überall sieht man Hunde, die gerade Gassi gegangen werden.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20843945691/in/datetaken/" title="Straßenkatzen in Jaffa"&gt;&lt;img src="https://farm6.staticflickr.com/5805/20843945691_52918a1a76_c.jpg" width="800" height="600" alt="Straßenkatzen in Jaffa" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Über das Schulsystem in Israel kann ich nicht viel erzählen, da ich auf eine Schule der Church of Scotland gehe, die dem britischen Schulsystem folgt. Ich finde diese Schule viel entspannter als meine alte Schule, was vermutlich vor allem daran liegt, das ich nur in den Fächern Unterricht habe, in denen ich auch Prüfungen ablege. So habe ich 6 Stunden pro Woche Mathe (eine Kombination aus 4 Std. Mathematik und 2 Std. Mechanik), 4 Stunden Computer Science und ebenfalls 4 Stunden Religionsphilosophie. Da ich eine christliche Schule besuche, beschäftigen wir uns meist mit Philosophien im Zusammenhang mit dem Christentum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20294620634/in/datetaken-public/" title="Wal in Jaffa"&gt;&lt;img src="https://farm1.staticflickr.com/611/20294620634_79e065b0c7_c.jpg" width="800" height="600" alt="Wal in Jaffa" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Computer-Science-Unterricht ist besser als der an meiner alten Schule, wo in der Oberstufe Object Pascal gelernt werden muss. Ich lerne 50 % Programmieren in Python und 50 % Funktionsweise des Computers. Zum Ende der 12. Klasse müssen wir noch ein größeres Projekt in Python selber realisieren. Die Klassen sind kleiner viel kleiner als ich es bisher kannte. Der größte Kurs in meiner Klassenstufe ist der Mathe-Kurs mit 15 Personen, der kleinste der Religionsphilosophiekurs mit 6 Personen.&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <id>tag:pajowu.de,2016-01-09:/blog/rss-feeds.html</id>
+    <title type="html">RSS Feeds</title>
+    <published>2016-01-08T23:00:00Z</published>
+    <updated>2016-01-08T23:00:00Z</updated>
+    <link rel="alternate" href="https://pajowu.de/blog/rss-feeds.html"/>
+    <content type="html">&lt;p&gt;Irgendwie hat mein Theme (Pelican Svbtle) die RSS-Feeds verschluckt. Habe das Theme gewechselt (&lt;a href="https://github.com/gilsondev/pelican-clean-blog"&gt;Pelican Clean Blog&lt;/a&gt;), deshalb solten sie jetzt angezeigt werden. Den Feed findest du auch &lt;a href="../feed.xml"&gt;hier&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Update: Neuer Blog, gibt jetzt nur noch einen Feed&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:pajowu.de,2015-08-24:/blog/4-tage-israel.html</id>
+    <title type="html">4 Tage Israel</title>
+    <published>2015-08-23T22:00:00Z</published>
+    <updated>2015-08-23T22:00:00Z</updated>
+    <link rel="alternate" href="https://pajowu.de/blog/4-tage-israel.html"/>
+    <content type="html">&lt;p&gt;Am 20. August war es soweit: wir flogen nach Israel.&lt;/p&gt;
+&lt;blockquote class="twitter-tweet" lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Unser Flugzeug steht schon. Gleich gehts los nach &lt;a href="https://twitter.com/hashtag/Israel?src=hash"&gt;#Israel&lt;/a&gt; &lt;a href="http://t.co/aw4DaHqFiW"&gt;pic.twitter.com/aw4DaHqFiW&lt;/a&gt;&lt;/p&gt;&amp;mdash; pajowu (@pajowu) &lt;a href="https://twitter.com/pajowu/status/634292423137603584"&gt;20. August 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;Unser Flug ging über Instanbul (2:35h Wartezeit) zum Flughafen David Ben Gurion, wo wir gegen 20:20 Uhr ankamen.
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20550819440/in/datetaken/" title="Blick aus dem Flugzeug"&gt;&lt;img src="https://farm6.staticflickr.com/5741/20550819440_aeec93d617_c.jpg" width="800" height="600" alt="Blick aus dem Flugzeug" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
+Als wir dann gegen 22:30 Uhr den Flughafen verließen überraschten uns warme 30 °C und selbst um 00:30 waren es noch 28 °C.&lt;/p&gt;
+
+&lt;p&gt;Am nächsten Tag haben wir die Umgebung erkundet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20649403218/in/photostream/" title="Krinizi St. / Herzl St."&gt;&lt;img src="https://farm1.staticflickr.com/621/20649403218_d86e839031_c.jpg" width="800" height="600" alt="Krinizi St. / Herzl St." /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20649387320" title="Krinizi St."&gt;&lt;img src="https://farm6.staticflickr.com/5617/20649387320_55a53e5728_c.jpg" width="800" height="654" alt="Krinizi St." /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Am 23. August sind wir nach Jaffa an den Strand gefahren, wo was Wasser abends deutlich wärmer war als die Luft und wir einige der vielen Straßenkatzen sahen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20843945691/in/datetaken/" title="Straßenkatzen in Jaffa"&gt;&lt;img src="https://farm6.staticflickr.com/5805/20843945691_52918a1a76_c.jpg" width="800" height="600" alt="Straßenkatzen in Jaffa" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20836813995/in/datetaken/" title="IMG_20150823_185154"&gt;&lt;img src="https://farm6.staticflickr.com/5756/20836813995_ef46716260_c.jpg" width="800" height="600" alt="IMG_20150823_185154" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/131632812@N04/20836870695/in/datetaken/" title="Mittelmeer"&gt;&lt;img src="https://farm1.staticflickr.com/779/20836870695_cd28274c1c_c.jpg" width="800" height="600" alt="Mittelmeer" /&gt;&lt;/a&gt;&lt;script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:pajowu.de,2015-07-19:/blog/hallo-welt.html</id>
+    <title type="html">Hallo Welt</title>
+    <published>2015-07-18T22:00:00Z</published>
+    <updated>2015-07-18T22:00:00Z</updated>
+    <link rel="alternate" href="https://pajowu.de/blog/hallo-welt.html"/>
+    <content type="html">&lt;p&gt;Mein erster Blog-Eintrag \o/&lt;/p&gt;
+</content>
+  </entry>
+</feed>
