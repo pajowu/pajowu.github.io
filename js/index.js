@@ -137,7 +137,6 @@ function showTweet(tweets){
 	console.log(tweets)
 
 	var tweetObject = tweets[0];
-	tweets = [tweets[0]];
 	var tweet_total_html = tweets.join("<hr>");
 
 	document.getElementById("tweets").innerHTML = tweet_total_html;
@@ -150,7 +149,7 @@ function loadNewestTweet() {
 	var config = {
 	  "profile": {"screenName": 'pajowu'},
 	  "domId": '',
-	  "maxTweets": 5,
+	  "maxTweets": 1,
 	  "enableLinks": true, 
 	  "showUser": false,
 	  "showTime": true,

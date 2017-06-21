@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://pajowu.de/</id>
   <title>feed</title>
-  <updated>2016-06-19T22:00:00Z</updated>
+  <updated>2016-06-19T21:00:00Z</updated>
   <link rel="alternate" href="https://pajowu.de/"/>
   <link rel="self" href="https://pajowu.de/feed.xml"/>
   <author>
@@ -12,8 +12,8 @@
   <entry>
     <id>tag:pajowu.de,2016-06-20:/blog/jhost2016.html</id>
     <title type="html">Jugend hackt Ost 2016</title>
-    <published>2016-06-19T22:00:00Z</published>
-    <updated>2016-06-19T22:00:00Z</updated>
+    <published>2016-06-19T21:00:00Z</published>
+    <updated>2016-06-19T21:00:00Z</updated>
     <link rel="alternate" href="https://pajowu.de/blog/jhost2016.html"/>
     <content type="html">&lt;h2 id="freitag"&gt;Freitag&lt;/h2&gt;
 
@@ -125,8 +125,8 @@
   <entry>
     <id>tag:pajowu.de,2016-03-03:/blog/computer-science-is-awesome.html</id>
     <title type="html">So geht es auch – Mein Informatik&lt;wbr&gt;unterricht nach britischem Lehrplan</title>
-    <published>2016-03-02T23:00:00Z</published>
-    <updated>2016-03-02T23:00:00Z</updated>
+    <published>2016-03-02T22:00:00Z</published>
+    <updated>2016-03-02T22:00:00Z</updated>
     <link rel="alternate" href="https://pajowu.de/blog/computer-science-is-awesome.html"/>
     <content type="html">&lt;p&gt;Der Informatikunterricht unterscheidet sich je nach Land, das war mir klar, allerdings war es für mich doch erstaunlich, wie groß dieser Unterschied ist. 
 Der Informatikunterricht an meiner alten Schule in Leipzig glich lange einer Microsoft-Office-Produktschulung. In der 9. Klasse haben wir dann noch etwas mit &lt;a href="https://de.wikipedia.org/wiki/Scratch\_(Programmiersprache)"&gt;Scratch&lt;/a&gt; gearbeitet, wobei sich das im wesentlichen auch auf eine kleine Einführung des Lehrers oder der Lehrerin und danach ein “macht mal” beschränkte. Dazwischen haben wir noch etwas über Objektorientierung gelernt, allerdings nur theoretisch und ohne jeglichen Praxiszusammenhang (Scratch eignet sich da zwar sehr gut, wurde aber erst einige Monate später behandelt).
@@ -207,8 +207,8 @@ Dadurch lernt man sowohl die Themen als auch ihre Anwendung besser, da beides gl
   <entry>
     <id>tag:pajowu.de,2016-01-10:/blog/4-monate-israel.html</id>
     <title type="html">4 Monate Israel</title>
-    <published>2016-01-09T23:00:00Z</published>
-    <updated>2016-01-09T23:00:00Z</updated>
+    <published>2016-01-09T22:00:00Z</published>
+    <updated>2016-01-09T22:00:00Z</updated>
     <link rel="alternate" href="https://pajowu.de/blog/4-monate-israel.html"/>
     <content type="html">&lt;p&gt;Israel ist warm, Tel Aviv sogar ca 8-10°C wärmer als Jerulasem. Die Wärme war für mich am Anfang einer der merkbarsten Unterschiede zu Deutschland. Als es im November schneite, waren es in Tel Aviv noch 28°. Dementsprechend lässt sich ein Leben ohne Klimaanlage in Israel kaum vorstellen.&lt;/p&gt;
 
@@ -235,8 +235,8 @@ Dadurch lernt man sowohl die Themen als auch ihre Anwendung besser, da beides gl
   <entry>
     <id>tag:pajowu.de,2016-01-09:/blog/rss-feeds.html</id>
     <title type="html">RSS Feeds</title>
-    <published>2016-01-08T23:00:00Z</published>
-    <updated>2016-01-08T23:00:00Z</updated>
+    <published>2016-01-08T22:00:00Z</published>
+    <updated>2016-01-08T22:00:00Z</updated>
     <link rel="alternate" href="https://pajowu.de/blog/rss-feeds.html"/>
     <content type="html">&lt;p&gt;Irgendwie hat mein Theme (Pelican Svbtle) die RSS-Feeds verschluckt. Habe das Theme gewechselt (&lt;a href="https://github.com/gilsondev/pelican-clean-blog"&gt;Pelican Clean Blog&lt;/a&gt;), deshalb solten sie jetzt angezeigt werden. Den Feed findest du auch &lt;a href="../feed.xml"&gt;hier&lt;/a&gt;.&lt;/p&gt;
 
@@ -246,8 +246,8 @@ Dadurch lernt man sowohl die Themen als auch ihre Anwendung besser, da beides gl
   <entry>
     <id>tag:pajowu.de,2015-08-24:/blog/4-tage-israel.html</id>
     <title type="html">4 Tage Israel</title>
-    <published>2015-08-23T22:00:00Z</published>
-    <updated>2015-08-23T22:00:00Z</updated>
+    <published>2015-08-23T21:00:00Z</published>
+    <updated>2015-08-23T21:00:00Z</updated>
     <link rel="alternate" href="https://pajowu.de/blog/4-tage-israel.html"/>
     <content type="html">&lt;p&gt;Am 20. August war es soweit: wir flogen nach Israel.&lt;/p&gt;
 &lt;blockquote class="twitter-tweet" lang="de"&gt;&lt;p lang="de" dir="ltr"&gt;Unser Flugzeug steht schon. Gleich gehts los nach &lt;a href="https://twitter.com/hashtag/Israel?src=hash"&gt;#Israel&lt;/a&gt; &lt;a href="http://t.co/aw4DaHqFiW"&gt;pic.twitter.com/aw4DaHqFiW&lt;/a&gt;&lt;/p&gt;&amp;mdash; pajowu (@pajowu) &lt;a href="https://twitter.com/pajowu/status/634292423137603584"&gt;20. August 2015&lt;/a&gt;&lt;/blockquote&gt;
@@ -275,8 +275,8 @@ Als wir dann gegen 22:30 Uhr den Flughafen verließen überraschten uns warme 30
   <entry>
     <id>tag:pajowu.de,2015-07-19:/blog/hallo-welt.html</id>
     <title type="html">Hallo Welt</title>
-    <published>2015-07-18T22:00:00Z</published>
-    <updated>2015-07-18T22:00:00Z</updated>
+    <published>2015-07-18T21:00:00Z</published>
+    <updated>2015-07-18T21:00:00Z</updated>
     <link rel="alternate" href="https://pajowu.de/blog/hallo-welt.html"/>
     <content type="html">&lt;p&gt;Mein erster Blog-Eintrag \o/&lt;/p&gt;
 </content>
